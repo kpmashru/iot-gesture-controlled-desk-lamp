@@ -30,8 +30,8 @@
 #include <Adafruit_NeoPixel.h>
 
 // ===================== 1. FILL THESE IN =====================
-const char* WIFI_SSID = "Redmi125G";
-const char* WIFI_PASS = "a12345A#";
+const char* WIFI_SSID = "YourWifiNAme";
+const char* WIFI_PASS = "YourWifiPassword";
 // ==============================================================
 
 // ---------- Pins ----------
