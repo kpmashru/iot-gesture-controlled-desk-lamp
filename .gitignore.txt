@@ -1,0 +1,6 @@
+# Arduino / PlatformIO build artifacts
+/build/
+.pio/
+.vscode/
+*.bin
+*.elf
